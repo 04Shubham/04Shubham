@@ -22,11 +22,12 @@ Hi, I'm [Shubham Kumar](https://shubhamk.me/), a passionate self-taught full sta
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 27 mins   ███████████████████████░░   92.12 %
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Laravel   6 hrs 27 mins   ███████████████████████░░   92.12 %
+Other        20 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+php          54 mins      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Bash          1 min       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+CSS          27 min       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JS           19 min       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %     
 ```
 
 <!--END_SECTION:waka-->
